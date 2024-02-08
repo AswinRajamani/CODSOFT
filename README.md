@@ -30,7 +30,7 @@ Installation
 ------------
 To use this landing page, clone the repository to your local machine:
 
-git clone https://github.com/AswinRajamani/website-development-landing-page.git
+git clone https://github.com/AswinRajamani/Level-1~Task-1~Landing-Page.git
 
 Usage
 -----
