@@ -187,54 +187,12 @@
          <input placeholder="Organization">
          <textarea placeholder="Project Description" required></textarea>
          <textarea placeholder="Additonal Information"></textarea>
-         <button  type="submit" onclick="window.location.href='respond.html'">HIRE</button>
+         <button  type="submit">HIRE</button>
      </form>
      </div>
      
 </body>
 
-</html>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-//Respond page
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Thank You</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap" rel="stylesheet">
-
-    <style>
-        .main{
-            font-family: 'Josefin Sans','sans serif';
-            display: flex;
-            justify-content: center;
-            margin-top: 240px;
-        }
-
-        .sub{
-            font-size: 35px;
-            color: #f9004d;
-            position: relative;
-        }
-
-        .sub::after{
-            content: "I'll respond as soon as I can";
-            color: black;
-            position: absolute;
-            margin-top: 45px;
-            margin-left: -500px;
-            width: 450px;
-        }
-    </style>
-
-</head>
-<body>
-    <div class="main">
-    <div class="sub">I'm grateful for your prompt reply!</div>
-    </div>
-</body>
 </html>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
