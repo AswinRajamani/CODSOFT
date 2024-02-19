@@ -16,3 +16,7 @@ Crafting a personal portfolio webpage using HTML and CSS is a common project for
 5. Resume: Providing a link for downloading your resume in PDF format.
 6. Contact: Including contact information such as email address and phone number.
 7. Footer: Adding a copyright notice and additional links or information.
+
+Task 3: Calculator
+-------------------
+Developing a basic calculator using HTML, CSS, and JavaScript entails creating an interactive interface with buttons for common arithmetic operations (addition, subtraction, multiplication, and division). The calculator should feature a display screen to show user input and results. Utilizing CSS grid system helps in aligning buttons properly. Event listeners, conditional statements (if-else), operators, and loops are employed to manage user input and perform calculations. While this project requires some proficiency, it's achievable with a basic understanding of these technologies.
